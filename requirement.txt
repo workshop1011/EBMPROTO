@@ -1,0 +1,12 @@
+streamlit
+yfinance
+plotly
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+openpyxl
+interpret
+langchain
+langchain-openai
